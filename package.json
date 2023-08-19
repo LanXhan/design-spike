@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/design-system-ui.blank-llhj1349",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 9OXA9b2bD1L4MSG0JNhm --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
